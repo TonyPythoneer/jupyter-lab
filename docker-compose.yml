@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  jupyter:
+    build: ./
+    working_dir: /app
+    command: /bin/sh -c .docker-assets/jupyter_build.sh
+    ports:
+      - "8888:8888"
+    volumes:
+      - "./:/app"
+      - "./.venv:/.venv"
+
+networks:
+  default:
+    driver: bridge
