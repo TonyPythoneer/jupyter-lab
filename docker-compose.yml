@@ -10,6 +10,7 @@ services:
     volumes:
       - "./:/app"
       - "./.venv:/.venv"
+      - "./.docker-assets:/.docker-assets"
 
 networks:
   default:

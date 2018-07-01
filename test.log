@@ -1,0 +1,22 @@
+[32m[I 07:19:58.652 LabApp](B[m JupyterLab beta preview extension loaded from /app/.venv/lib/python3.6/site-packages/jupyterlab
+[32m[I 07:19:58.652 LabApp](B[m JupyterLab application directory is /app/.venv/share/jupyter/lab
+[33m[W 07:19:58.656 LabApp](B[m JupyterLab server extension not enabled, manually loading...
+[32m[I 07:19:58.657 LabApp](B[m JupyterLab beta preview extension loaded from /app/.venv/lib/python3.6/site-packages/jupyterlab
+[32m[I 07:19:58.657 LabApp](B[m JupyterLab application directory is /app/.venv/share/jupyter/lab
+[32m[I 07:19:58.659 LabApp](B[m Serving notebooks from local directory: /app
+[32m[I 07:19:58.660 LabApp](B[m 0 active kernels
+[32m[I 07:19:58.660 LabApp](B[m The Jupyter Notebook is running at:
+[32m[I 07:19:58.660 LabApp](B[m http://320309312ea4:8888/?token=da89e044adaef5407625ff9972689285d3638d32c97ca317
+[32m[I 07:19:58.660 LabApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 07:19:58.660 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://320309312ea4:8888/?token=da89e044adaef5407625ff9972689285d3638d32c97ca317&token=da89e044adaef5407625ff9972689285d3638d32c97ca317
+^C[32m[I 07:20:03.107 LabApp](B[m interrupted
+Serving notebooks from local directory: /app
+0 active kernels
+The Jupyter Notebook is running at:
+http://320309312ea4:8888/?token=da89e044adaef5407625ff9972689285d3638d32c97ca317
+Shutdown this notebook server (y/[n])? ^C[C 07:20:03.275 LabApp] received signal 2, stopping
+[32m[I 07:20:03.282 LabApp](B[m Shutting down 0 kernels

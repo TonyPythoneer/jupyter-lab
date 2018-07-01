@@ -9,6 +9,3 @@ ADD . /app
 # runtime dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     graphviz
-
-# docker container 腳本
-COPY .docker-assets/ /app/.docker-assets/
